@@ -1,0 +1,16 @@
+{
+  "name": "assets",
+  "version": "2022.01.17",
+  "description": "A wardrobe of assets for Blitz Esports",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Blitz-Esports/Assets.git"
+  },
+  "author": "@Blitz-eSports",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "bugs": {
+    "url": "https://github.com/Blitz-Esports/Assets/issues"
+  },
+  "homepage": "https://github.com/Blitz-Esports/Assets#readme"
+}
